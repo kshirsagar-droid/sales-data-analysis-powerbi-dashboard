@@ -34,3 +34,8 @@ Power BI Data Modeling
 DAX Calculations
        ↓
 Interactive Power BI Dashboard
+
+
+## 📊 Dashboard Preview
+
+![Sales Dashboard](sales_dashboard.png)
